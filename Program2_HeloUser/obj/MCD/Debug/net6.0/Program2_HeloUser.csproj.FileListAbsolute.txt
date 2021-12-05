@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\bin\MCD\Debug\net6.0\Program2_HeloUser.exe
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\bin\MCD\Debug\net6.0\Program2_HeloUser.deps.json
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\bin\MCD\Debug\net6.0\Program2_HeloUser.runtimeconfig.json
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\bin\MCD\Debug\net6.0\Program2_HeloUser.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\bin\MCD\Debug\net6.0\ref\Program2_HeloUser.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\bin\MCD\Debug\net6.0\Program2_HeloUser.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\obj\MCD\Debug\net6.0\Program2_HeloUser.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\obj\MCD\Debug\net6.0\Program2_HeloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\obj\MCD\Debug\net6.0\Program2_HeloUser.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\obj\MCD\Debug\net6.0\Program2_HeloUser.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\obj\MCD\Debug\net6.0\Program2_HeloUser.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\obj\MCD\Debug\net6.0\Program2_HeloUser.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\obj\MCD\Debug\net6.0\ref\Program2_HeloUser.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\obj\MCD\Debug\net6.0\Program2_HeloUser.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program2_HeloUser\obj\MCD\Debug\net6.0\Program2_HeloUser.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\bin\MCD\Debug\net6.0\Program3_+.exe
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\bin\MCD\Debug\net6.0\Program3_+.deps.json
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\bin\MCD\Debug\net6.0\Program3_+.runtimeconfig.json
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\bin\MCD\Debug\net6.0\Program3_+.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\bin\MCD\Debug\net6.0\ref\Program3_+.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\bin\MCD\Debug\net6.0\Program3_+.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\obj\MCD\Debug\net6.0\Program3_+.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\obj\MCD\Debug\net6.0\Program3_+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\obj\MCD\Debug\net6.0\Program3_+.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\obj\MCD\Debug\net6.0\Program3_+.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\obj\MCD\Debug\net6.0\Program3_+.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\obj\MCD\Debug\net6.0\Program3_+.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\obj\MCD\Debug\net6.0\ref\Program3_+.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\obj\MCD\Debug\net6.0\Program3_+.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program3_+\obj\MCD\Debug\net6.0\Program3_+.genruntimeconfig.cache

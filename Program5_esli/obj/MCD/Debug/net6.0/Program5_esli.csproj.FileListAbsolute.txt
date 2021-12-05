@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\bin\MCD\Debug\net6.0\Program5_esli.exe
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\bin\MCD\Debug\net6.0\Program5_esli.deps.json
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\bin\MCD\Debug\net6.0\Program5_esli.runtimeconfig.json
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\bin\MCD\Debug\net6.0\Program5_esli.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\bin\MCD\Debug\net6.0\ref\Program5_esli.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\bin\MCD\Debug\net6.0\Program5_esli.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\obj\MCD\Debug\net6.0\Program5_esli.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\obj\MCD\Debug\net6.0\Program5_esli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\obj\MCD\Debug\net6.0\Program5_esli.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\obj\MCD\Debug\net6.0\Program5_esli.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\obj\MCD\Debug\net6.0\Program5_esli.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\obj\MCD\Debug\net6.0\Program5_esli.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\obj\MCD\Debug\net6.0\ref\Program5_esli.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\obj\MCD\Debug\net6.0\Program5_esli.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program5_esli\obj\MCD\Debug\net6.0\Program5_esli.genruntimeconfig.cache

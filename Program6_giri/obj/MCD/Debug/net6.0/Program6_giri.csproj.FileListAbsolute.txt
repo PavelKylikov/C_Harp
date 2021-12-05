@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\bin\MCD\Debug\net6.0\Program6_giri.exe
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\bin\MCD\Debug\net6.0\Program6_giri.deps.json
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\bin\MCD\Debug\net6.0\Program6_giri.runtimeconfig.json
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\bin\MCD\Debug\net6.0\Program6_giri.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\bin\MCD\Debug\net6.0\ref\Program6_giri.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\bin\MCD\Debug\net6.0\Program6_giri.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\obj\MCD\Debug\net6.0\Program6_giri.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\obj\MCD\Debug\net6.0\Program6_giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\obj\MCD\Debug\net6.0\Program6_giri.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\obj\MCD\Debug\net6.0\Program6_giri.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\obj\MCD\Debug\net6.0\Program6_giri.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\obj\MCD\Debug\net6.0\Program6_giri.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\obj\MCD\Debug\net6.0\ref\Program6_giri.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\obj\MCD\Debug\net6.0\Program6_giri.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program6_giri\obj\MCD\Debug\net6.0\Program6_giri.genruntimeconfig.cache

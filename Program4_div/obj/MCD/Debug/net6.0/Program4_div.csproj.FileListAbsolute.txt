@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\bin\MCD\Debug\net6.0\Program4_div.exe
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\bin\MCD\Debug\net6.0\Program4_div.deps.json
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\bin\MCD\Debug\net6.0\Program4_div.runtimeconfig.json
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\bin\MCD\Debug\net6.0\Program4_div.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\bin\MCD\Debug\net6.0\ref\Program4_div.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\bin\MCD\Debug\net6.0\Program4_div.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\obj\MCD\Debug\net6.0\Program4_div.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\obj\MCD\Debug\net6.0\Program4_div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\obj\MCD\Debug\net6.0\Program4_div.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\obj\MCD\Debug\net6.0\Program4_div.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\obj\MCD\Debug\net6.0\Program4_div.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\obj\MCD\Debug\net6.0\Program4_div.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\obj\MCD\Debug\net6.0\ref\Program4_div.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\obj\MCD\Debug\net6.0\Program4_div.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Program1\Program4_div\obj\MCD\Debug\net6.0\Program4_div.genruntimeconfig.cache
